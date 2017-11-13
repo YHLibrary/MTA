@@ -1,0 +1,7 @@
+MTA.xcodeproj/xcuserdata/
+MTA.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+MTA.xcodeproj/project.xcworkspace/xcuserdata/
